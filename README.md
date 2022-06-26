@@ -1,6 +1,6 @@
 # ascii-emoji-scrapbook
 
-Save your favorite emoji in a scrapbook.
+Save your favorite emoji in a scrapbook. Utilizes localstorage.
 
 ## Made with
 
@@ -11,3 +11,4 @@ Save your favorite emoji in a scrapbook.
 ## TODO
 
 - [ ] Copied indicator
+- [ ] Cloud storage
