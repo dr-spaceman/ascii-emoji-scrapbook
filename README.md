@@ -10,4 +10,4 @@ Save your favorite emoji in a scrapbook.
 
 ## TODO
 
-[ ] Copied indicator
+- [ ] Copied indicator
