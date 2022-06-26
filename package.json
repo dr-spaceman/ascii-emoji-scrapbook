@@ -1,0 +1,11 @@
+{
+  "name": "ascii-emoji-scrapbook",
+  "version": "1.0.0",
+  "description": "Save your favorite emoji in a scrapbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Berti",
+  "license": "Apache"
+}
